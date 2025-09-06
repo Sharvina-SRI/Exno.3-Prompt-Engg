@@ -1,7 +1,8 @@
 # Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 ### DATE: 06/09/2025                                                                         
 ### REGISTER NUMBER : 212222060238
-### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts.
+### Aim:
+To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts.
 
 ### Algorithm:  1. Direct Instruction Prompts
 Objective: Guide the chatbot to respond concisely to customer inquiries.
@@ -67,5 +68,6 @@ The board grows complex. The player’s mind jumps between attack and defense: �
 ♟️ Endgame
 The board is quieter, but every move matters more. The player’s heart beats faster: “One mistake can lose it all.” The brain pushes through fatigue, searching for the perfect plan. When checkmate finally arrives—win or lose—the mind floods with relief. Victory brings pride, defeat brings lessons, but both bring respect for the game.
 
-# Result: Thus the Prompts were exected succcessfully .
+# Result:
+Thus the Prompts were exected succcessfully .
 
