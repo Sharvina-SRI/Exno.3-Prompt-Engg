@@ -1,6 +1,6 @@
 # Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 06/09/2025                                                                         
+### REGISTER NUMBER : 212222060238
 ### Aim: To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts.
 
 ### Algorithm:  1. Direct Instruction Prompts
@@ -41,8 +41,31 @@ Prompt Pattern:
 Prompt: "When a customer asks for help, first reflect their question back to them. For example, if they ask 'How can I reset my password?' respond with 'You're asking how to reset your password, correct? Here’s how you can do it.'"
 Result: The various types of Prompts are executed successfully.
 
+## Prompt:
+Write about how a runner feels before, during, and after running a marathon.
 
+## Chatgpt said:
+🏃‍♀️ Before the Marathon
+The runner feels excited but nervous. The heart beats faster, and there’s a mix of fear and hope. They wonder if they trained enough, but the crowd and energy give confidence.
 
+🏃 During the Marathon
+At first, the runner feels strong and full of energy. As the miles go on, the body starts to tire. Legs feel heavy, breathing gets harder, and the mind wants to stop. But cheers from people and inner determination push them forward. Every step becomes a fight, but also a victory.
+
+🏁 After the Marathon
+Crossing the finish line brings relief and joy. The pain is real, but the happiness is greater. The runner feels proud, strong, and accomplished, knowing the hard work was worth it.
+
+## Prompt:
+Write about what goes through a player’s mind during a close chess match, from the opening move to the final checkmate.
+
+## Chatgpt said:
+♟️ Opening Moves
+The player sits with focus. Thoughts race: “Which opening should I use? How will my opponent respond?” Each move feels like planting seeds for the future. Confidence mixes with curiosity.
+
+♟️ Middle Game
+The board grows complex. The player’s mind jumps between attack and defense: “If I move here, what will they do? Is there a hidden trap?” Pressure builds, but so does excitement. Every piece feels alive, waiting for the right moment.
+
+♟️ Endgame
+The board is quieter, but every move matters more. The player’s heart beats faster: “One mistake can lose it all.” The brain pushes through fatigue, searching for the perfect plan. When checkmate finally arrives—win or lose—the mind floods with relief. Victory brings pride, defeat brings lessons, but both bring respect for the game.
 
 # Result: Thus the Prompts were exected succcessfully .
 
